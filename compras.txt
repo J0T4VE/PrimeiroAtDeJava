@@ -1,0 +1,12 @@
+Produto: sabãi
+Quantidade: 1
+Preço unitário: R$ 12,00
+-----------------------------
+Produto: barra
+Quantidade: 2
+Preço unitário: R$ 10,00
+-----------------------------
+Produto: 2
+Quantidade: 212
+Preço unitário: R$ 12,00
+-----------------------------
