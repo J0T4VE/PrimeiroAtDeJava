@@ -1,12 +1,12 @@
-package classes;
+package Exe5a7;
 
-public class Veiculo {
+public class Exe6Veiculo {
     String placa;
     String modelo;
     int anoFabricacao;
     double quilometragem;
 
-    public Veiculo(String placa, String modelo, int anoFabricacao, double quilometragem) {
+    public Exe6Veiculo(String placa, String modelo, int anoFabricacao, double quilometragem) {
         this.placa = placa;
         this.modelo = modelo;
         this.anoFabricacao = anoFabricacao;
@@ -26,8 +26,8 @@ public class Veiculo {
     }
 
     public static void main(String[] args) {
-        Veiculo carro1 = new Veiculo("ABC1234", "Gol", 2015, 50000);
-        Veiculo carro2 = new Veiculo("XYZ5678", "Onix", 2020, 30000);
+        Exe6Veiculo carro1 = new Exe6Veiculo("ABC1234", "Gol", 2015, 50000);
+        Exe6Veiculo carro2 = new Exe6Veiculo("XYZ5678", "Onix", 2020, 30000);
 
         System.out.println("\n--- Detalhes do Carro 1 ---");
         carro1.exibirDetalhes();

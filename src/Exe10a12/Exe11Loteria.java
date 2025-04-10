@@ -1,8 +1,8 @@
-package arquivos;
+package Exe10a12;
 
 import java.util.*;
 
-public class Loteria {
+public class Exe11Loteria {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Set<Integer> numerosSorteados = new HashSet<>();

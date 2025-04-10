@@ -1,10 +1,10 @@
-package avancada;
+package Exe8a9;
 
-public class ContaBancaria {
+public class Exe9ContaBancaria {
     public String titular;
     private double saldo;
 
-    public ContaBancaria(String titular, double saldoInicial) {
+    public Exe9ContaBancaria(String titular, double saldoInicial) {
         this.titular = titular;
         this.saldo = saldoInicial;
     }

@@ -1,9 +1,9 @@
-package arquivos;
+package Exe10a12;
 
 import java.io.*;
 import java.util.Scanner;
 
-public class RegistroCompras {
+public class Exe10RegistroCompras {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String nomeArquivo = "compras.txt";

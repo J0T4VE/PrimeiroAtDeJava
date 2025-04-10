@@ -1,8 +1,8 @@
-package avancada;
+package Exe8a9;
 
-public class Gerente extends Funcionario {
+public class Exe8Gerente extends Exe8Funcionario {
 
-    public Gerente(String nome, double salarioBase) {
+    public Exe8Gerente(String nome, double salarioBase) {
         super(nome, salarioBase);
     }
 

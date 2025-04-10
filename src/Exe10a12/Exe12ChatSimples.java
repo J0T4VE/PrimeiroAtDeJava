@@ -1,8 +1,8 @@
-package arquivos;
+package Exe10a12;
 
 import java.util.Scanner;
 
-public class ChatSimples {
+public class Exe12ChatSimples {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] mensagens = new String[10];

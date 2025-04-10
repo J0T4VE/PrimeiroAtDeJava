@@ -1,8 +1,8 @@
-package avancada;
+package Exe8a9;
 
-public class TesteConta {
+public class Exe9TesteConta {
     public static void main(String[] args) {
-        ContaBancaria conta = new ContaBancaria("João Vitor Fornaciari", 1000);
+        Exe9ContaBancaria conta = new Exe9ContaBancaria("João Vitor Fornaciari", 1000);
 
         conta.exibirSaldo();
 

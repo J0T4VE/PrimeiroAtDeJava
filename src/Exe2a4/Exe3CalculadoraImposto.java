@@ -1,8 +1,8 @@
-package conceitos;
+package Exe2a4;
 
 import java.util.Scanner;
 
-public class CalculadoraImposto {
+public class Exe3CalculadoraImposto {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

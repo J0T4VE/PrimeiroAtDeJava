@@ -1,6 +1,6 @@
-package configuracao;
+package Exe1Configuracao;
 
-public class HelloWord {
+public class Exe1HelloWord {
     public static void main(String[] args) {
         System.out.println("Olá, meu nome é João Vitor Fornaciari e estou aprendendo Java!");
     }

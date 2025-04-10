@@ -1,13 +1,13 @@
-package classes;
+package Exe5a7;
 
 import java.util.Scanner;
 
-public class Aluno {
+public class Exe7Aluno {
     String nome;
     String matricula;
     double nota1, nota2, nota3;
 
-    public Aluno(String nome, String matricula, double nota1, double nota2, double nota3) {
+    public Exe7Aluno(String nome, String matricula, double nota1, double nota2, double nota3) {
         this.nome = nome;
         this.matricula = matricula;
         this.nota1 = nota1;
@@ -47,7 +47,7 @@ public class Aluno {
         System.out.print("Digite a nota 3: ");
         double nota3 = scanner.nextDouble();
 
-        Aluno aluno = new Aluno(nome, matricula, nota1, nota2, nota3);
+        Exe7Aluno aluno = new Exe7Aluno(nome, matricula, nota1, nota2, nota3);
 
         System.out.println("\n=== Resultado ===");
         aluno.verificarAprovacao();

@@ -1,6 +1,6 @@
-package conceitos;
+package Exe5a7;
 
-public class ProgramaCGI {
+public class Exe5ProgramaCGI {
     public static void main(String[] args) {
         System.out.println("Content-Type: text/html\n");
 

@@ -1,8 +1,8 @@
-package conceitos;
+package Exe2a4;
 
 import java.util.Scanner;
 
-public class ValidadorSenha {
+public class Exe2ValidadorSenha {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String nome;

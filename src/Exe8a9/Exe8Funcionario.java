@@ -1,10 +1,10 @@
-package avancada;
+package Exe8a9;
 
- class Funcionario {
+ class Exe8Funcionario {
     protected String nome;
     protected double salarioBase;
 
-    public Funcionario(String nome, double salarioBase) {
+    public Exe8Funcionario(String nome, double salarioBase) {
         this.nome = nome;
         this.salarioBase = salarioBase;
     }
